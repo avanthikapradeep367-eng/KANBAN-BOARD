@@ -67,24 +67,16 @@ The application uses a **clean dark interface** with a structured layout for bet
 ## 📸 Application Screenshots
 
 ### Kanban Board (Dark Mode)
-<p align="center">
-  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\1.png"" width="900">
-</p>
+![Kanban Board](images/dashboard-dark.png)
 
 ### Focus Timer Feature
-<p align="center">
-  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\2.png"" width="900">
-</p>
+![Focus Timer](images/timer-feature.png)
 
 ### Light Mode Interface
-<p align="center">
-  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\3.png"" width="900">
-</p>
+![Light Mode](images/light-mode.png)
 
 ### Add New Task Modal
-<p align="center">
-  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\4.png"" width="900">
-</p>
+![Add Task](images/add-task-modal.png)
 ---
 ## ⚙️ Installation
 
