@@ -1,16 +1,69 @@
-# React + Vite
+# KanFlow – Kanban Task Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KanFlow is a modern **Kanban-style task management web application** that helps users organize and track their workflow efficiently.  
+The app allows users to create tasks, move them across workflow stages, and visually manage progress using a clean and interactive interface.
 
-Currently, two official plugins are available:
+The board is divided into three stages so users can easily track tasks from start to completion.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 📝 Task Creation
+Users can create a new task with a **title and optional description**.  
+New tasks automatically appear in the **Todo** column.
 
-## Expanding the ESLint configuration
+### 📊 Kanban Workflow Board
+Tasks are organized into three workflow stages:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Todo** – Tasks that need to be started  
+- **In Progress** – Tasks currently being worked on  
+- **Done** – Completed tasks  
+
+### 🔄 Drag and Drop
+Tasks can be **moved between columns** to update their workflow status.
+
+### 📦 Task Cards
+Each task appears as a card showing:
+
+- Task title
+- Description
+- Priority label
+- Due date (optional)
+
+### 💾 Local Storage Persistence
+Tasks are saved in **browser local storage**, so the board remains the same even after refreshing the page.
+
+### 🔍 Search Functionality
+Users can search tasks quickly using the search bar.
+
+### 🎨 Modern UI
+The application uses a **clean dark interface** with a structured layout for better usability.
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend Framework**
+- React.js
+
+**Build Tool**
+- Vite
+
+**Languages**
+- HTML
+- CSS
+- JavaScript
+
+**State Management**
+- React Hooks
+
+**Storage**
+- Browser Local Storage
+
+**Deployment**
+- Vercel / Netlify
+
+---
+
+## 📂 Project Structure
