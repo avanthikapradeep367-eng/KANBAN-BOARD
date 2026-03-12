@@ -63,28 +63,6 @@ The application uses a **clean dark interface** with a structured layout for bet
 
 **Deployment**
 - Vercel / Netlify
-
----
-
-## 📂 Project Structure
-kanflow/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   │   ├── TaskCard.jsx
-│   │   ├── Column.jsx
-│   │   └── Board.jsx
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── styles.css
-│
-├── index.html
-└── package.json
-
-
 ---
 
 ## ⚙️ Installation
