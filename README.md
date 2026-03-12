@@ -67,7 +67,7 @@ The application uses a **clean dark interface** with a structured layout for bet
 ## 📸 Application Screenshots
 
 ### Kanban Board (Dark Mode)
-[![Kanban Board](images/dashboard-dark.png)](https://github.com/avanthikapradeep367-eng/KANBAN-BOARD/blob/0a635f3f48cbb752219963d6bee1fcefb8ec4e3d/1.png)
+[![Kanban Board](https://github.com/avanthikapradeep367-eng/KANBAN-BOARD/blob/0a635f3f48cbb752219963d6bee1fcefb8ec4e3d/1.png)]
 
 ### Focus Timer Feature
 ![Focus Timer](images/timer-feature.png)
