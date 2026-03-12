@@ -64,7 +64,28 @@ The application uses a **clean dark interface** with a structured layout for bet
 **Deployment**
 - Vercel / Netlify
 ---
+## 📸 Application Screenshots
 
+### Kanban Board (Dark Mode)
+<p align="center">
+  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\1.png"" width="900">
+</p>
+
+### Focus Timer Feature
+<p align="center">
+  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\2.png"" width="900">
+</p>
+
+### Light Mode Interface
+<p align="center">
+  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\3.png"" width="900">
+</p>
+
+### Add New Task Modal
+<p align="center">
+  <img src=""C:\Users\avant\OneDrive\Pictures\kanban\4.png"" width="900">
+</p>
+---
 ## ⚙️ Installation
 
 Clone the repository
@@ -75,3 +96,5 @@ git clone https://github.com/yourusername/kanflow.git
 cd kanflow
 npm install
 npm run dev
+
+
