@@ -76,7 +76,8 @@ The application uses a **clean dark interface** with a structured layout for bet
 ![Light Mode](https://github.com/avanthikapradeep367-eng/KANBAN-BOARD/blob/f4f48c94f1559ca702dd41ac4eddbee4b17a64e0/3.png)
 
 ### Add New Task Modal
-![Add Task](images/add-task-modal.png)
+![Add Task](https://github.com/avanthikapradeep367-eng/KANBAN-BOARD/blob/4988b896ad07e4bc3380355a03e13fe342480134/4.png)
+
 ---
 ## ⚙️ Installation
 
